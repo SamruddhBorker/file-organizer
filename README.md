@@ -1,5 +1,7 @@
 # file-organizer
 
+[![tests](https://github.com/SamruddhBorker/file-organizer/actions/workflows/tests.yml/badge.svg)](https://github.com/SamruddhBorker/file-organizer/actions/workflows/tests.yml)
+ 
 Sorts a messy folder (Downloads, Desktop) into `Images`, `Videos`, `Audio`,
 `Documents`, `Archives`, `Code`, `Installers` and `Other`.
 
